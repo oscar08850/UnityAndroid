@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.DefaultCompany.Archer"
+    android:installLocation="preferExternal"
+    android:versionCode="1"
+    android:versionName="0.1" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="29" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <uses-feature android:glEsVersion="0x00030000" />
+    <uses-feature
+        android:name="android.hardware.vulkan.version"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.touchscreen.multitouch"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.touchscreen.multitouch.distinct"
+        android:required="false" />
+
+    <application
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/app_icon"
+        android:label="@string/app_name"
+        android:testOnly="true" >
+        <activity android:name="com.DefaultCompany.Archer.MainActivity" >
+
+            <!--
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+
+        </activity>
+        <activity android:name="com.upc.eetac.dsa.androidapp.DetalleObjetoActivity" >
+        </activity>
+        <activity android:name="com.upc.eetac.dsa.androidapp.MenuRecordsActivity" />
+        <activity android:name="com.upc.eetac.dsa.androidapp.MenuEditarActivity" />
+        <activity android:name="com.upc.eetac.dsa.androidapp.IndividualRecordsActivity" />
+        <activity android:name="com.upc.eetac.dsa.androidapp.EliminarActivity" />
+        <activity android:name="com.upc.eetac.dsa.androidapp.GlobalRecordsActivity" />
+        <activity android:name="com.upc.eetac.dsa.androidapp.InventarioActivity" />
+        <activity android:name="com.upc.eetac.dsa.androidapp.TiendaActivity" />
+        <activity android:name="com.upc.eetac.dsa.androidapp.EstadisticasActivity" />
+        <activity
+            android:name="com.upc.eetac.dsa.androidapp.RegisterActivity"
+            android:screenOrientation="fullSensor" />
+        <activity
+            android:name="com.upc.eetac.dsa.androidapp.PrincipalActivity"
+            android:screenOrientation="fullSensor" >
+            <intent-filter>
+                <action android:name="package.com.upc.eetac.dsa.androidapp.LogInActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.upc.eetac.dsa.androidapp.EditarActivity"
+            android:screenOrientation="fullSensor" />
+        <activity
+            android:name="com.upc.eetac.dsa.androidapp.ConsultarActivity"
+            android:screenOrientation="fullSensor" />
+        <activity
+            android:name="com.upc.eetac.dsa.androidapp.LogInActivity"
+            android:theme="@style/SplashTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.unity3d.player.UnityPlayerActivity"
+            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+            android:hardwareAccelerated="false"
+            android:launchMode="singleTask"
+            android:screenOrientation="fullSensor"
+            android:theme="@style/UnityThemeSelector" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <meta-data
+                android:name="unityplayer.UnityActivity"
+                android:value="true" />
+            <meta-data
+                android:name="android.notch_support"
+                android:value="true" />
+        </activity>
+
+        <meta-data
+            android:name="unity.splash-mode"
+            android:value="0" />
+        <meta-data
+            android:name="unity.splash-enable"
+            android:value="True" />
+        <meta-data
+            android:name="notch.config"
+            android:value="portrait|landscape" />
+        <meta-data
+            android:name="unity.build-id"
+            android:value="0a316ee5-9c8e-4787-b716-d9d32df870d0" />
+    </application>
+
+</manifest>

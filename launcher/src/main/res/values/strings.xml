@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidApp</string>
+    <string name="don_t_have_an_account_yet_sign_up_now">Don\'t have an account yet? Sign up now</string>
+    <string name="game_view_content_description"></string>
+</resources>

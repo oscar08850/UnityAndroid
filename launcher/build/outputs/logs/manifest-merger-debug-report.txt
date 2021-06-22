@@ -1,0 +1,386 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:2:1-86:12
+MERGED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:3:1-63:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\23ba8a0358c63cbec9d20af76f0c2dae\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\6b952eb4a4f978b7bb6cfe19f2454a40\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\20e3f7c8fec626c62b0c335791fe99dd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\bf261285d120e09e9483d3339960deea\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\8fb5831557e3107c95c1e3e453f7cbc7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\618757498d32256d18f96034945fa901\AndroidManifest.xml:17:1-24:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\e97ac9c15cc0c52ba0c6e7200180490f\AndroidManifest.xml:15:1-21:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\b207b3c063fd79307d0f4523cb8fdb64\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\35b112a55e89fed7d2da748c4ed214d8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\a6c8bfdf6a42c9ff1b642ff77ffba19d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\1b9b95d50817eaef9112504fe45601c7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\1c888e2ca5ef03cd4bb5143b2887c32e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\e9191f2da293e755871acbb7a4b22b4a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\159148d7030a8250a5ec6d28d70381f4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\c8f10001a7f02af386ec8cc278dca533\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\e6765e2ee07c5537278d86af3efd7959\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\40f0985aa1058467eeb409db69613963\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\30d836ddc09a2392c7f23fbaccd9ef50\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\1b6068f5358857423364034f6b04640a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\6ded2ad660d4dbd1c2aaa6b177ad393f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\ba2ba455c03a1d3c1ccede04ee14f8c9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\d48be934af25bf552e5b908a3ed6b066\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\4d9abc4fa1208852a43658f8dc65b10f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\3ea072c84164b7b9787954c43a20abd4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\cc4de3dee4100869628f4032d359b96e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\191771229a8305cacba376f19c1c96c3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\f464002b7a09cef151e8dd36b0a40f3e\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\0e33d7c70a4fa0e0bc016957245f566e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\c29c255b530328fc5096564583cf9ad4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\9b8d6ffc44be42514b5dab37f7c0496d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\db9961f6fc9ca02d2a9ffcb67b0473e7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\daf71cbd89fbcc32602ed82d9bafb5a9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\771dc29ae62dec954a4c4c1f970c787e\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\17e0f9ca17a71d76ef1a802c6da1d9c9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\d280fa879f6a70021e0ef7348548a37b\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\1f09a793e71e7dde01ad6f370d5aacb8\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\b2580ec5853728c13630fafa3c70bfb1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\24f67863a41057312424af8a09cefd85\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\739ece35c2ea571f73a582fe608eb8de\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\38036cf69bba15c700a59c7c72f4ee23\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\89d323ae59a1ddc9d3f2fe76c0c5474a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\e78b03bc7017c17af5a3bb7134c110b6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\315943c4fa94f8019efba99063aa6205\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\e1ca49dc5df2b221503669868a05b51a\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:2:1-86:12
+	package
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:4:5-43
+		INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:2:1-86:12
+		INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:2:1-86:12
+		INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:5:5-45
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:8:22-77
+supports-screens
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:11:5-16:40
+	android:largeScreens
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:13:9-36
+	android:smallScreens
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:15:9-36
+	android:normalScreens
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:14:9-37
+	android:xlargeScreens
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:16:9-37
+	android:anyDensity
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:12:9-34
+application
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:18:5-84:19
+MERGED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:5-61:19
+MERGED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:5-61:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\23ba8a0358c63cbec9d20af76f0c2dae\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\23ba8a0358c63cbec9d20af76f0c2dae\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\6b952eb4a4f978b7bb6cfe19f2454a40\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\6b952eb4a4f978b7bb6cfe19f2454a40\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\b207b3c063fd79307d0f4523cb8fdb64\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\b207b3c063fd79307d0f4523cb8fdb64\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.5.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\f464002b7a09cef151e8dd36b0a40f3e\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\f464002b7a09cef151e8dd36b0a40f3e\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\771dc29ae62dec954a4c4c1f970c787e\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\771dc29ae62dec954a4c4c1f970c787e\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\d280fa879f6a70021e0ef7348548a37b\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\d280fa879f6a70021e0ef7348548a37b\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\f464002b7a09cef151e8dd36b0a40f3e\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:19:9-40
+activity#com.DefaultCompany.Archer.MainActivity
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:23:9-32:20
+	android:name
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:23:19-72
+activity#com.upc.eetac.dsa.androidapp.DetalleObjetoActivity
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:35:9-38:20
+	android:name
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:35:19-56
+activity#com.upc.eetac.dsa.androidapp.MenuRecordsActivity
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:39:9-57
+	android:name
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:39:19-54
+activity#com.upc.eetac.dsa.androidapp.MenuEditarActivity
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:40:9-56
+	android:name
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:40:19-53
+activity#com.upc.eetac.dsa.androidapp.IndividualRecordsActivity
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:41:9-63
+	android:name
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:41:19-60
+activity#com.upc.eetac.dsa.androidapp.EliminarActivity
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:42:9-54
+	android:name
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:42:19-51
+activity#com.upc.eetac.dsa.androidapp.GlobalRecordsActivity
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:43:9-59
+	android:name
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:43:19-56
+activity#com.upc.eetac.dsa.androidapp.InventarioActivity
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:44:9-56
+	android:name
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:44:19-53
+activity#com.upc.eetac.dsa.androidapp.TiendaActivity
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:47:9-52
+	android:name
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:47:19-49
+activity#com.upc.eetac.dsa.androidapp.EstadisticasActivity
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:48:9-58
+	android:name
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:48:19-55
+activity#com.upc.eetac.dsa.androidapp.RegisterActivity
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:49:9-51:54
+	android:screenOrientation
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:51:13-51
+	android:name
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:50:13-45
+activity#com.upc.eetac.dsa.androidapp.PrincipalActivity
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:52:9-61:20
+	android:screenOrientation
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:54:13-51
+	android:name
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:53:13-46
+intent-filter#action:name:package.com.upc.eetac.dsa.androidapp.LogInActivity+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:55:13-60:29
+action#package.com.upc.eetac.dsa.androidapp.LogInActivity
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:57:17-93
+	android:name
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:57:25-90
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:58:17-76
+	android:name
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:58:27-73
+activity#com.upc.eetac.dsa.androidapp.EditarActivity
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:65:9-67:54
+	android:screenOrientation
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:67:13-51
+	android:name
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:66:13-43
+activity#com.upc.eetac.dsa.androidapp.ConsultarActivity
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:68:9-70:54
+	android:screenOrientation
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:70:13-51
+	android:name
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:69:13-46
+activity#com.upc.eetac.dsa.androidapp.LogInActivity
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:71:9-83:20
+	android:theme
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:73:13-47
+	android:name
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:72:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:74:13-82:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:76:17-69
+	android:name
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:76:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:78:17-77
+	android:name
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:78:27-74
+uses-sdk
+INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-11:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\23ba8a0358c63cbec9d20af76f0c2dae\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\23ba8a0358c63cbec9d20af76f0c2dae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\6b952eb4a4f978b7bb6cfe19f2454a40\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\6b952eb4a4f978b7bb6cfe19f2454a40\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\20e3f7c8fec626c62b0c335791fe99dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\20e3f7c8fec626c62b0c335791fe99dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\bf261285d120e09e9483d3339960deea\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\bf261285d120e09e9483d3339960deea\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\8fb5831557e3107c95c1e3e453f7cbc7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\8fb5831557e3107c95c1e3e453f7cbc7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\618757498d32256d18f96034945fa901\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\618757498d32256d18f96034945fa901\AndroidManifest.xml:20:5-22:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\e97ac9c15cc0c52ba0c6e7200180490f\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\e97ac9c15cc0c52ba0c6e7200180490f\AndroidManifest.xml:19:5-43
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\b207b3c063fd79307d0f4523cb8fdb64\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\b207b3c063fd79307d0f4523cb8fdb64\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\35b112a55e89fed7d2da748c4ed214d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\35b112a55e89fed7d2da748c4ed214d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\a6c8bfdf6a42c9ff1b642ff77ffba19d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\a6c8bfdf6a42c9ff1b642ff77ffba19d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\1b9b95d50817eaef9112504fe45601c7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\1b9b95d50817eaef9112504fe45601c7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\1c888e2ca5ef03cd4bb5143b2887c32e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\1c888e2ca5ef03cd4bb5143b2887c32e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\e9191f2da293e755871acbb7a4b22b4a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\e9191f2da293e755871acbb7a4b22b4a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\159148d7030a8250a5ec6d28d70381f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\159148d7030a8250a5ec6d28d70381f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\c8f10001a7f02af386ec8cc278dca533\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\c8f10001a7f02af386ec8cc278dca533\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\e6765e2ee07c5537278d86af3efd7959\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\e6765e2ee07c5537278d86af3efd7959\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\40f0985aa1058467eeb409db69613963\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\40f0985aa1058467eeb409db69613963\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\30d836ddc09a2392c7f23fbaccd9ef50\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\30d836ddc09a2392c7f23fbaccd9ef50\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\1b6068f5358857423364034f6b04640a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\1b6068f5358857423364034f6b04640a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\6ded2ad660d4dbd1c2aaa6b177ad393f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\6ded2ad660d4dbd1c2aaa6b177ad393f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\ba2ba455c03a1d3c1ccede04ee14f8c9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\ba2ba455c03a1d3c1ccede04ee14f8c9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\d48be934af25bf552e5b908a3ed6b066\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\d48be934af25bf552e5b908a3ed6b066\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\4d9abc4fa1208852a43658f8dc65b10f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\4d9abc4fa1208852a43658f8dc65b10f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\3ea072c84164b7b9787954c43a20abd4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\3ea072c84164b7b9787954c43a20abd4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\cc4de3dee4100869628f4032d359b96e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\cc4de3dee4100869628f4032d359b96e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\191771229a8305cacba376f19c1c96c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\191771229a8305cacba376f19c1c96c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\f464002b7a09cef151e8dd36b0a40f3e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\f464002b7a09cef151e8dd36b0a40f3e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\0e33d7c70a4fa0e0bc016957245f566e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\0e33d7c70a4fa0e0bc016957245f566e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\c29c255b530328fc5096564583cf9ad4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\c29c255b530328fc5096564583cf9ad4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\9b8d6ffc44be42514b5dab37f7c0496d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\9b8d6ffc44be42514b5dab37f7c0496d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\db9961f6fc9ca02d2a9ffcb67b0473e7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\db9961f6fc9ca02d2a9ffcb67b0473e7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\daf71cbd89fbcc32602ed82d9bafb5a9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\daf71cbd89fbcc32602ed82d9bafb5a9\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\771dc29ae62dec954a4c4c1f970c787e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\771dc29ae62dec954a4c4c1f970c787e\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\17e0f9ca17a71d76ef1a802c6da1d9c9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\17e0f9ca17a71d76ef1a802c6da1d9c9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\d280fa879f6a70021e0ef7348548a37b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\d280fa879f6a70021e0ef7348548a37b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\1f09a793e71e7dde01ad6f370d5aacb8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\1f09a793e71e7dde01ad6f370d5aacb8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\b2580ec5853728c13630fafa3c70bfb1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\b2580ec5853728c13630fafa3c70bfb1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\24f67863a41057312424af8a09cefd85\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\24f67863a41057312424af8a09cefd85\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\739ece35c2ea571f73a582fe608eb8de\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\739ece35c2ea571f73a582fe608eb8de\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\38036cf69bba15c700a59c7c72f4ee23\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\38036cf69bba15c700a59c7c72f4ee23\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\89d323ae59a1ddc9d3f2fe76c0c5474a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\89d323ae59a1ddc9d3f2fe76c0c5474a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\e78b03bc7017c17af5a3bb7134c110b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\e78b03bc7017c17af5a3bb7134c110b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\315943c4fa94f8019efba99063aa6205\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\315943c4fa94f8019efba99063aa6205\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\e1ca49dc5df2b221503669868a05b51a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\e1ca49dc5df2b221503669868a05b51a\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-55
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:9-47:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:13-51
+	android:launchMode
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:13-194
+	android:theme
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:13-54
+	android:name
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:13-66
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:13-43:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:13-46:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:45:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:9-51:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:9-54:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:54:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:13-47
+meta-data#notch.config
+ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:9-57:50
+	android:value
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:13-47
+	android:name
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:56:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:9-60:68
+	android:value
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:13-65
+	android:name
+		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:13-42
